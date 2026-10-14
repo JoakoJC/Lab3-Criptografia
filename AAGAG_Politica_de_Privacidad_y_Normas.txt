@@ -1,0 +1,80 @@
+POLÍTICA DE PRIVACIDAD DE AAGAG
+
+AAGAG (en adelante, «la empresa») considera de gran importancia la información personal de sus usuarios y cumple con la legislación relativa a la promoción del uso de las redes de información y comunicaciones y a la protección de la información.
+
+Mediante esta política de privacidad, la empresa informa a sus usuarios sobre los fines y las formas en que se utiliza la información personal que proporcionan, así como las medidas adoptadas para protegerla.
+
+Si la empresa modifica esta política de privacidad, lo comunicará mediante avisos en su sitio web (o notificaciones individuales).
+
+■ DATOS PERSONALES QUE SE RECOPILAN
+
+La empresa recopila los siguientes datos personales para el registro de miembros, las consultas y las solicitudes de servicios, entre otros fines.
+
+○ Datos recopilados:
+- Nombre
+- Fecha de nacimiento
+- Sexo
+- ID de inicio de sesión
+- Identificador de redes sociales
+- Contraseña
+- Pregunta y respuesta de seguridad de la contraseña
+- Correo electrónico
+- Historial de uso del servicio
+- Registros de acceso
+- Cookies
+- Dirección IP de conexión
+- Número de teléfono
+- Historial de pagos
+
+○ Métodos de recopilación de datos personales: sitio web (registro de miembros y tablones de mensajes).
+
+■ FINALIDADES DE LA RECOPILACIÓN Y USO DE DATOS PERSONALES
+
+La empresa utiliza los datos personales recopilados para los siguientes fines:
+
+○ Cumplimiento de los contratos de prestación de servicios y liquidación de pagos asociados a ellos:
+- Suministro de contenidos.
+
+○ Administración de miembros:
+- Verificación de identidad para el uso de servicios reservados a miembros; identificación individual; prevención del uso indebido por parte de miembros problemáticos y de accesos no autorizados; confirmación de la intención de registrarse; verificación de edad; y comprobación del consentimiento del representante legal al recopilar datos personales de menores de 14 años.
+
+○ Marketing y publicidad:
+- Determinación de la frecuencia de acceso y elaboración de estadísticas sobre el uso del servicio por parte de los miembros.
+
+■ CONSERVACIÓN Y PERÍODO DE USO DE LOS DATOS PERSONALES
+
+En principio, la empresa elimina sin demora los datos personales una vez cumplida la finalidad para la que fueron recopilados y utilizados. Sin embargo, cuando sea necesario conservarlos conforme a la legislación aplicable, la empresa mantendrá la información de los miembros durante los períodos establecidos por dichas normas, según se indica a continuación.
+
+En el caso de los miembros sujetos a sanciones conforme a las normas del sitio, lo anterior se aplicará a partir del momento en que finalice la sanción correspondiente.
+
+Datos conservados: ID de inicio de sesión e historial de pagos.
+Fundamento de conservación: Ley sobre el Uso y la Protección de la Información Crediticia.
+Período de conservación: 3 años.
+
+- Registros relacionados con la publicidad y las indicaciones comerciales: 6 meses (Ley de Protección del Consumidor en el Comercio Electrónico y otras transacciones).
+- Registros relativos a contratos o cancelaciones de pedidos: 5 años (Ley de Protección del Consumidor en el Comercio Electrónico y otras transacciones).
+- Registros sobre pagos y suministro de bienes u otros productos: 5 años (Ley de Protección del Consumidor en el Comercio Electrónico y otras transacciones).
+- Registros sobre reclamaciones de consumidores o resolución de controversias: 3 años (Ley de Protección del Consumidor en el Comercio Electrónico y otras transacciones).
+- Registros sobre recopilación, tratamiento y uso de información crediticia: 3 años (Ley sobre el Uso y la Protección de la Información Crediticia).
+
+■ NORMAS DE USO DE LOS TABLONES DE MENSAJES
+
+○ Normas de uso del tablón ISSUE
+
+Cuando un miembro considere ofensivos los insultos, las descalificaciones o los comentarios provocadores de otros miembros y los denuncie, podrá eliminarse una parte del hilo de comentarios o el hilo completo.
+
+El uso de palabras asociadas principalmente a determinados sitios web, apodos que causen malestar o determinadas conductas en los comentarios puede dar lugar a sanciones disciplinarias.
+
+○ «Malas personas»
+
+Si un usuario acumula una determinada cantidad de votos positivos y negativos, pero la proporción de votos negativos es elevada, podrá considerarse que publica habitualmente comentarios provocadores.
+
+Los comentarios de ese usuario dejarán de ser visibles para los visitantes no registrados y podrá verse perjudicado en el orden de presentación de los comentarios.
+
+○ Sanciones
+
+Por regla general, las sanciones se aplican automáticamente cuando la actividad reciente genera demasiadas controversias o provocaciones, tomando en consideración los votos positivos, los votos negativos y las denuncias, entre otros factores.
+
+Las sanciones automáticas, por regla general, se multiplican progresivamente y continúan aplicándose incluso si el usuario crea una cuenta nueva.
+
+La identificación de cuentas nuevas pertenecientes a una misma persona se realiza automáticamente a partir de los datos personales recopilados por la empresa, indicados anteriormente. Si existe alguna objeción, se solicita contactar a la empresa por correo electrónico o mensajería.

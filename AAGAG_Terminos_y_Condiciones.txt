@@ -1,0 +1,139 @@
+TÉRMINOS Y CONDICIONES DE USO DE AAGAG
+
+CAPÍTULO 1: DISPOSICIONES GENERALES
+CAPÍTULO 2: CONTRATO DE USO DEL SERVICIO
+CAPÍTULO 3: OBLIGACIONES DE LAS PARTES CONTRATANTES
+CAPÍTULO 4: USO DEL SERVICIO
+CAPÍTULO 5: RESCISIÓN DEL CONTRATO Y RESTRICCIONES DE USO
+CAPÍTULO 6: OTRAS DISPOSICIONES
+
+CAPÍTULO 1. DISPOSICIONES GENERALES
+
+Artículo 1 (Objeto)
+Estos términos y condiciones tienen por objeto regular las condiciones y los procedimientos de utilización de todos los servicios (en adelante, «los servicios») ofrecidos por AAGAG (en adelante, «la empresa») a través de su sitio web (aagag.com).
+
+Artículo 2 (Definiciones)
+Los términos utilizados en estas condiciones se definen como sigue:
+1. Usuario: persona que recibe los servicios proporcionados por la empresa conforme a estos términos y condiciones.
+2. Contrato de uso: contrato celebrado entre la empresa y el usuario en relación con la utilización de los servicios.
+3. Registro: acción de completar el formulario de solicitud facilitado por la empresa con la información correspondiente y aceptar estos términos y condiciones para formalizar el contrato de uso del servicio.
+4. Miembro: persona que proporciona los datos personales necesarios para registrarse en el sitio y completa su inscripción.
+5. Identificador de usuario (ID): combinación de letras del alfabeto latino y números seleccionada por el usuario y aprobada por la empresa para identificar al miembro y permitirle utilizar el servicio (solo puede emitirse un ID por cada número de registro de residente).
+6. Contraseña (PASSWORD): combinación de letras del alfabeto latino, números y caracteres especiales establecida por el propio usuario para proteger su información.
+7. Rescisión: manifestación de voluntad de la empresa o del miembro de poner fin al contrato de uso tras la utilización del servicio.
+
+Artículo 3 (Vigencia y modificaciones de los términos y condiciones)
+Si un miembro no acepta las condiciones modificadas, podrá solicitar la baja (rescisión). Si continúa utilizando el servicio sin manifestar su rechazo transcurridos siete días desde la fecha de entrada en vigor de las modificaciones, se considerará que las ha aceptado.
+① Estos términos y condiciones entrarán en vigor cuando se publiquen en la pantalla del servicio, en el tablón de anuncios o por cualquier otro medio de comunicación.
+② La empresa podrá modificar su contenido cuando lo considere necesario. Las condiciones modificadas se anunciarán en la pantalla del servicio y, si transcurren siete días desde el anuncio sin que el miembro manifieste su rechazo y este continúa utilizando el servicio, se considerará que ha aceptado los cambios.
+③ Si el usuario no acepta las modificaciones, podrá dejar de utilizar el servicio y cancelar su registro. Si continúa utilizándolo, se considerará que acepta las condiciones modificadas, que entrarán en vigor conforme al procedimiento indicado en el apartado anterior.
+
+Artículo 4 (Normativa supletoria)
+Las cuestiones no reguladas expresamente en estos términos y condiciones se regirán por la Ley Básica de Telecomunicaciones, la Ley de Negocios de Telecomunicaciones y las demás normas pertinentes.
+
+CAPÍTULO 2. CONTRATO DE USO DEL SERVICIO
+
+Artículo 5 (Formalización del contrato de uso)
+El contrato de uso se formaliza mediante la aceptación por parte de la empresa de la solicitud del usuario y la aceptación por este de los términos y condiciones.
+
+Artículo 6 (Solicitud de uso)
+El usuario podrá solicitar el servicio introduciendo sus datos personales en el formulario de registro exigido por la empresa, disponible en la sección de información de miembros del servicio.
+
+Artículo 7 (Aceptación de solicitudes)
+① Cuando un miembro complete correctamente todos los campos del formulario y solicite el uso del servicio, la empresa aceptará normalmente la solicitud, salvo que existan circunstancias especiales.
+② La empresa podrá rechazar la solicitud en cualquiera de los siguientes casos:
+1. Cuando la solicitud no se presente con el nombre real del solicitante.
+2. Cuando se utilice la identidad de otra persona.
+3. Cuando se incluya información falsa en la solicitud.
+4. Cuando la solicitud tenga por finalidad perturbar el orden público o las buenas costumbres.
+5. Cuando no se cumplan otros requisitos de solicitud establecidos por la empresa.
+
+Artículo 8 (Modificación de datos contractuales)
+Los miembros deberán actualizar los datos consignados en su solicitud cuando se produzcan cambios. Serán responsables de los problemas derivados de no hacerlo.
+
+CAPÍTULO 3. OBLIGACIONES DE LAS PARTES CONTRATANTES
+
+Artículo 9 (Obligaciones de la empresa)
+La empresa no revelará ni distribuirá a terceros la información personal de los miembros de la que tenga conocimiento con motivo de la prestación del servicio sin su consentimiento. Se exceptúan los casos en que exista una solicitud de organismos estatales conforme a la Ley Básica de Telecomunicaciones u otras normas legales, cuando sea necesaria para una investigación penal o cuando proceda conforme a los mecanismos establecidos por la legislación pertinente.
+
+Artículo 10 (Obligaciones de los miembros)
+① Los miembros no deberán realizar las siguientes conductas al utilizar los servicios:
+1. Utilizar indebidamente el ID de otro miembro.
+2. Reproducir, publicar o facilitar a terceros la información obtenida a través del servicio.
+3. Vulnerar los derechos de autor de la empresa o de terceros, u otros derechos.
+4. Difundir contenidos contrarios al orden público o a las buenas costumbres.
+5. Realizar conductas que puedan considerarse objetivamente relacionadas con actividades delictivas.
+6. Incurrir en otras conductas contrarias a la legislación aplicable.
+② Los miembros no podrán utilizar los servicios para actividades comerciales. La empresa no se responsabilizará de las consecuencias derivadas de tales actividades.
+③ Los miembros no podrán ceder, regalar ni ofrecer como garantía sus derechos de uso del servicio ni su posición contractual.
+
+CAPÍTULO 4. USO DEL SERVICIO
+
+Artículo 11 (Obligaciones de los miembros)
+① Cada miembro será responsable, según corresponda, del mantenimiento y la administración de su correo electrónico, publicaciones en tablones, materiales registrados y demás contenidos.
+② Los miembros no podrán eliminar ni modificar arbitrariamente los materiales proporcionados por la empresa.
+③ Los miembros no deberán publicar en el sitio web contenidos contrarios al orden público o las buenas costumbres, ni materiales que infrinjan derechos de autor u otros derechos de terceros. Si publican tales contenidos, asumirán toda la responsabilidad por las consecuencias que se deriven.
+
+Artículo 12 (Gestión y eliminación de publicaciones)
+Para garantizar la eficiencia de la operación del servicio, la empresa podrá limitar el espacio de almacenamiento de los miembros, el tamaño de los mensajes y los períodos de conservación. También podrá eliminar publicaciones sin aviso previo cuando incurran en alguno de los siguientes supuestos:
+1. Contenidos que difamen, injurien o perjudiquen la reputación de otros miembros o terceros.
+2. Contenidos contrarios al orden público o a las buenas costumbres.
+3. Contenidos que se consideren relacionados con actos delictivos.
+4. Contenidos que infrinjan derechos de autor de la empresa o de terceros, u otros derechos.
+5. Publicación de material pornográfico o enlaces a sitios pornográficos en el sitio web o los tablones de la empresa.
+6. Otros contenidos considerados contrarios a la legislación aplicable.
+
+Artículo 13 (Derechos de autor de las publicaciones)
+Los derechos de autor de las publicaciones pertenecen a sus respectivos autores. Los miembros no podrán utilizar comercialmente la información publicada en el servicio, por ejemplo, transformándola o vendiéndola.
+
+Artículo 14 (Horario de prestación del servicio)
+Como regla general, el servicio estará disponible las 24 horas del día, todos los días del año, salvo que existan impedimentos operativos o técnicos especiales. Esta regla no se aplicará durante períodos de mantenimiento programado u otras circunstancias similares.
+
+Artículo 15 (Responsabilidad en el uso del servicio)
+Está prohibido utilizar el servicio para realizar actividades de piratería informática, enlazar sitios pornográficos o distribuir ilegalmente programas comerciales, entre otras conductas. La empresa no se responsabilizará de los resultados o pérdidas derivados de las actividades comerciales realizadas mediante tales infracciones, ni de las medidas legales adoptadas por las autoridades competentes.
+
+Artículo 16 (Suspensión de la prestación del servicio)
+La empresa podrá suspender el servicio en cualquiera de los siguientes casos:
+1. Cuando sea inevitable por trabajos de reparación o mantenimiento de los equipos del servicio.
+2. Cuando un operador de telecomunicaciones autorizado conforme a la Ley de Negocios de Telecomunicaciones suspenda sus servicios.
+3. Cuando sea necesario realizar comprobaciones del sistema.
+4. Cuando concurran otras causas de fuerza mayor.
+
+CAPÍTULO 5. RESCISIÓN DEL CONTRATO Y RESTRICCIONES DE USO
+
+Artículo 17 (Rescisión del contrato y restricciones de uso)
+① Cuando un miembro desee rescindir su contrato de uso, deberá solicitarlo personalmente por Internet. La empresa verificará su identidad antes de tramitar la solicitud.
+② Si un miembro incurre en alguna de las conductas siguientes, la empresa deberá comunicarle su intención de rescindir el contrato con al menos 30 días de antelación, dándole la oportunidad de formular alegaciones:
+1. Apropiarse o utilizar indebidamente el ID y la contraseña de otra persona.
+2. Obstaculizar intencionadamente el funcionamiento del servicio.
+3. Registrarse con información falsa.
+4. Registrarse dos veces utilizando distintos ID siendo la misma persona.
+5. Difundir contenidos contrarios al orden público o a las buenas costumbres.
+6. Dañar la reputación de otra persona o causarle perjuicios.
+7. Enviar grandes volúmenes de información o comunicaciones publicitarias con el propósito de perturbar el funcionamiento estable del servicio.
+8. Difundir virus informáticos que provoquen fallos en equipos de información y comunicaciones o destruyan datos.
+9. Infringir derechos de propiedad intelectual de la empresa, de otros miembros o de terceros.
+10. Utilizar indebidamente los datos personales, ID o contraseñas de otras personas.
+11. Publicar material pornográfico o enlaces a sitios pornográficos en su página personal o en tablones de mensajes.
+12. Realizar otras conductas consideradas contrarias a la legislación aplicable.
+
+CAPÍTULO 6. OTRAS DISPOSICIONES
+
+Artículo 18 (Prohibición de cesión)
+Los miembros no podrán ceder, regalar ni ofrecer como garantía sus derechos de utilización del servicio ni su posición contractual.
+
+Artículo 19 (Indemnización por daños y perjuicios)
+La empresa no será responsable de los daños que sufran los miembros en relación con los servicios gratuitos, excepto cuando se deban a actos dolosos o negligencia grave de la empresa.
+
+Artículo 20 (Exenciones de responsabilidad)
+① La empresa quedará exenta de responsabilidad por la imposibilidad de prestar el servicio debida a desastres naturales, guerras u otras circunstancias de fuerza mayor similares.
+② La empresa quedará exenta de responsabilidad por daños derivados de la reparación, sustitución, inspección periódica u obras de mantenimiento de los equipos del servicio, cuando estas resulten inevitables.
+③ La empresa no será responsable de las interrupciones del servicio imputables al miembro.
+④ La empresa no responderá por los beneficios que los miembros esperen obtener mediante el uso del servicio ni por los daños derivados de los materiales obtenidos a través de este.
+⑤ La empresa no será responsable de la fiabilidad, exactitud u otros aspectos del contenido de la información, los materiales o los hechos publicados por los miembros en el servicio.
+
+Artículo 21 (Tribunal competente)
+Cuando se interponga una demanda por controversias derivadas del uso del servicio, tendrán competencia exclusiva los tribunales con jurisdicción sobre el domicilio de la empresa.
+
+DISPOSICIÓN ADICIONAL
+(Fecha de entrada en vigor) Estos términos y condiciones entran en vigor el 1 de enero de 2012.
